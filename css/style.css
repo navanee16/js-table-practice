@@ -1,0 +1,11 @@
+.container{
+    border: 2px solid black;
+    margin: auto;
+    width: 600px;
+}
+td{
+    border: 2px solid black;
+}
+th{
+    border: 2px solid black;
+}
